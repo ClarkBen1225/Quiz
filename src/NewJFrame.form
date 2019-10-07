@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <EmptySpace min="0" pref="400" max="32767" attributes="0"/>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="120" pref="120" max="-2" attributes="0"/>
+                          <Component id="titleLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Component id="headerLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Component id="qtion1Label1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="qtion1ALabel1" min="-2" max="-2" attributes="0"/>
+                              <Component id="qtion1BLabel1" min="-2" pref="112" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="qtion1CLabel1" min="-2" max="-2" attributes="0"/>
+                              <Component id="qtion1DLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="117" pref="117" max="-2" attributes="0"/>
+                          <Component id="answer1Txt1" min="-2" pref="47" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Component id="qtion2Label1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Component id="qtion2ALabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                          <Component id="qtion2CLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="111" pref="111" max="-2" attributes="0"/>
+                          <Component id="answer2Txt1" min="-2" pref="47" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Component id="qtion2BLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="66" pref="66" max="-2" attributes="0"/>
+                          <Component id="qtion2DLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="qtion3Label1" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Component id="qtion3ALabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="35" pref="35" max="-2" attributes="0"/>
+                          <Component id="qtion3CLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="qtion3BLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="29" pref="29" max="-2" attributes="0"/>
+                          <Component id="qtion3DLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="155" pref="155" max="-2" attributes="0"/>
+                          <Component id="answer3Txt1" min="-2" pref="47" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="qtion4Label1" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Component id="qtion4ALabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                          <Component id="qtion4CLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="194" pref="194" max="-2" attributes="0"/>
+                          <Component id="answer4Txt1" min="-2" pref="47" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="qtion4BLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                          <Component id="qtion4DLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="qtion5Label1" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Component id="qtion5ALabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="46" pref="46" max="-2" attributes="0"/>
+                          <Component id="qtion5CLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="qtion5BLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                          <Component id="qtion5DLabel1" min="-2" pref="59" max="-2" attributes="0"/>
+                          <EmptySpace min="147" pref="147" max="-2" attributes="0"/>
+                          <Component id="answer5Txt1" min="-2" pref="47" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="correctLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Component id="correctNumLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="214" pref="214" max="-2" attributes="0"/>
+                          <Component id="qtion5btn1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="IncorrectLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Component id="incorrectNumLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="75" pref="75" max="-2" attributes="0"/>
+                          <Component id="percentageLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="6" pref="6" max="-2" attributes="0"/>
+                          <Component id="percentageNumLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <EmptySpace min="0" pref="621" max="32767" attributes="0"/>
+          <Group type="103" rootIndex="1" groupAlignment="0" attributes="0">
+              <Group type="102" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="titleLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="headerLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="qtion1Label1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Component id="qtion1ALabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
+                          <Component id="qtion1BLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <Component id="qtion1CLabel1" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
+                          <Component id="qtion1DLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                          <Component id="answer1Txt1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="20" pref="20" max="-2" attributes="0"/>
+                  <Component id="qtion2Label1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="qtion2ALabel1" min="-2" max="-2" attributes="0"/>
+                      <Component id="qtion2CLabel1" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="5" pref="5" max="-2" attributes="0"/>
+                          <Component id="answer2Txt1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="qtion2BLabel1" min="-2" max="-2" attributes="0"/>
+                      <Component id="qtion2DLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="17" pref="17" max="-2" attributes="0"/>
+                  <Component id="qtion3Label1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="qtion3ALabel1" min="-2" max="-2" attributes="0"/>
+                      <Component id="qtion3CLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="answer3Txt1" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="qtion3BLabel1" min="-2" max="-2" attributes="0"/>
+                              <Component id="qtion3DLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="qtion4Label1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="answer4Txt1" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="3" pref="3" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="qtion4ALabel1" min="-2" max="-2" attributes="0"/>
+                              <Component id="qtion4CLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="qtion4BLabel1" min="-2" max="-2" attributes="0"/>
+                      <Component id="qtion4DLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="18" pref="18" max="-2" attributes="0"/>
+                  <Component id="qtion5Label1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="11" pref="11" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="qtion5ALabel1" min="-2" max="-2" attributes="0"/>
+                      <Component id="qtion5CLabel1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="4" pref="4" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="answer5Txt1" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="14" pref="14" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="qtion5BLabel1" min="-2" max="-2" attributes="0"/>
+                              <Component id="qtion5DLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="10" pref="10" max="-2" attributes="0"/>
+                          <Component id="correctLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="8" pref="8" max="-2" attributes="0"/>
+                          <Component id="correctNumLabel1" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="qtion5btn1" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace min="12" pref="12" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="incorrectNumLabel1" min="-2" max="-2" attributes="0"/>
+                      <Component id="percentageNumLabel1" min="-2" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="IncorrectLabel1" min="-2" max="-2" attributes="0"/>
+                              <Component id="percentageLabel1" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="titleLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="16" style="1"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Halo Quiz"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="headerLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Answer the questions below and then click check"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion1Label1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="What gamemode is best resembles a sport:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion1ALabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A) Fire Fight"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion1BLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B) Griffball"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion1CLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C) Slayer"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion1DLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D) Infection"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="answer1Txt1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="answer1Txt1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion2Label1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Whats the upcoming Halo called?:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion2ALabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A) Advanced Warfare"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion2BLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B) Infinite"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion2CLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C) New Order"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion2DLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D) Reach"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="answer2Txt1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="answer2Txt1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion3Label1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="What species are grunts:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion3ALabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A) Flood"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion3BLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B) Human"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion3CLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C) Covenant "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion3DLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D) Forerunner"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="answer3Txt1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion4Label1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="What Type of swords are in Halo:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion4ALabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A) Energy"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion4BLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B) Daedric"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion4CLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C) Steel"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion4DLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D) Dragon Bone"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="answer4Txt1">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="answer4Txt1ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion5Label1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="What rank is the main character in Halo:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion5ALabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="A) Eclipse"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion5BLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="B) Master Chief"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion5CLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="C) Inheritor "/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="qtion5DLabel1">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="D) Mythic"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="answer5Txt1">
+    </Component>
+    <Component class="javax.swing.JLabel" name="correctNumLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="0/5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="correctLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Correct:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="IncorrectLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Incorrect:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="incorrectNumLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="0/5"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="percentageLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Percentage:"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="percentageNumLabel1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Comic Sans MS" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="0%"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="qtion5btn1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="66" red="ff" type="rgb"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Check"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="qtion5btn1ActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
